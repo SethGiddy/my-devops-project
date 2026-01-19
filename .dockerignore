@@ -1,0 +1,52 @@
+# =========================
+# Dependencies & Package Managers
+# =========================
+node_modules
+npm-debug.log*
+coverage
+.nyc_output
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Version Control
+# =========================
+.git
+.github
+
+# =========================
+# Logs
+# =========================
+logs
+*.log
+
+# =========================
+# Editor & IDE Files
+# =========================
+.vscode
+.idea
+*.swp
+*.swo
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Testing & Tooling
+# =========================
+tests/
+jest.config.js
+.eslintrc*
+
+# =========================
+# Documentation
+# =========================
+README.md
